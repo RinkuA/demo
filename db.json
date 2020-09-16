@@ -1,14 +1,18 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+{"note":[
+  {
+ "noteID": 1,
+  "title": "Home work"
+},
+  {
+"noteID": 2,
+"title": "Home work2"
+},
+  {
+"noteID": 3,
+"title": "Home work3"
+},
+  {
+  "noteID": 4,
+  "title": "Home work4"
   }
-}
+]}

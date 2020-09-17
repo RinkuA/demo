@@ -1,18 +1,22 @@
 {"note":[
   {
  "noteID": 1,
-  "title": "Home work"
+  "title": "Home work",
+    "content":"content1"
 },
   {
 "noteID": 2,
-"title": "Home work2"
+"title": "Home work2",
+     "content":"content2"
 },
   {
 "noteID": 3,
-"title": "Home work3"
+"title": "Home work3",
+     "content":"content3"
 },
   {
   "noteID": 4,
-  "title": "Home work4"
+  "title": "Home work4",
+     "content":"content4"
   }
 ]}
